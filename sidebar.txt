@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xky:home|Door43 (xky)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xky|d43-xky repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xky/archive/master.zip|d43-xky.zip]]
+
+**Recent Changes**
+{{changes>ns = xky}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xky|Ethnologue data]]
+
